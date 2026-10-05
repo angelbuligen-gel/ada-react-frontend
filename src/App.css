@@ -173,25 +173,6 @@ button {
 }
 
 
-/* =========================================================
-   SIDEBAR
-   ========================================================= */
-
-.product-page::after {
-    content: "PRODUCT\nMANAGEMENT";
-    white-space: pre;
-    position: fixed;
-    left: 30px;
-    top: 35px;
-    width: 180px;
-    color: white;
-    font-size: 16px;
-    font-weight: 800;
-    line-height: 1.5;
-    letter-spacing: 0.8px;
-    z-index: 1;
-}
-
 
 /* =========================================================
    TOPBAR
