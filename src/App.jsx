@@ -698,11 +698,6 @@ function ProductPage({ onLogout }) {
                             Products
                         </h2>
 
-                        <p>
-                            Manage your products
-                            through the LavaLust API.
-                        </p>
-
                     </div>
 
                     <button
