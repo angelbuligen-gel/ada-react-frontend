@@ -177,17 +177,6 @@ button {
    SIDEBAR
    ========================================================= */
 
-.product-page::before {
-    content: "";
-    position: fixed;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 245px;
-    background: #0b1f3a;
-    z-index: 0;
-}
-
 .product-page::after {
     content: "PRODUCT\nMANAGEMENT";
     white-space: pre;
